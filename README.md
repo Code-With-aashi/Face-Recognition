@@ -16,3 +16,11 @@ pip install git+https://github.com/paoloripamonti/face-recognition
 from face_recognition import FaceRecognition
 
 fr = FaceRecognition()
+
+### Project Details:-
+
+In this project we downloaded dataset from https://www.kaggle.com/muhammeddalkran/masked-unmasked-face-recognition/data
+
+We try to recognise faces before and after wearing the covid masks.
+
+
